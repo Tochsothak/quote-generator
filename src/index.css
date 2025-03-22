@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background-image: url('https://images.hdqwalls.com/wallpapers/mountains-retreat-minimal-beautiful-4k-vl.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+
+
+
+
+
